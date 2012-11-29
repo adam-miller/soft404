@@ -10,6 +10,7 @@ Understanding of the Web's Decay* by Tomkins et al (which is, somewhat
 ironically, a dead page):
 
 http://www.tomkinshome.com/andrew/papers/decay/final/p444-baryossef.htm
+http://wayback.archive.org/web/*/http://www.tomkinshome.com/andrew/papers/decay/final/p444-baryossef.htm
 
 I needed a way for [DecentURL.com](http://decenturl.com/)'s "link rot
 detector" to properly detect dead pages. It'd be nice if all web servers
